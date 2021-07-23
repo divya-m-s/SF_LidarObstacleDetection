@@ -1,4 +1,4 @@
-# Lidar Obstacle Detection
+# SFND Lidar Obstacle Detection
 
 Implement Obstacle detection on real point cloud data from a lidar
 PointCloudLibrary is used for general data handling and initial testing.
