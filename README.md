@@ -8,6 +8,8 @@ Scope of development includes
 - Cluster the obstacle cloud, using K-D Tree for 3D space.
 - Put bounding boxes for identified clusters in 3D visualization
 
+## Outcome
+![Lidar Obstacle Detection](/results/obstacledetectionfps.gif)
 
 ## Installation
 
