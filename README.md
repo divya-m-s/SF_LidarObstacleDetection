@@ -1,6 +1,4 @@
-# Sensor Fusion Nano degree: Project 1
-
-### Lidar Obstacle Detection
+# Lidar Obstacle Detection
 
 Implement Obstacle detection on real point cloud data from a lidar
 PointCloudLibrary is used for general data handling and initial testing.
