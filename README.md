@@ -1,6 +1,6 @@
 # SFND Lidar Obstacle Detection
 
-Implement Obstacle detection on real point cloud data from a lidar
+Implement Obstacle detection on real point cloud data from a lidar sensor.
 PointCloudLibrary is used for general data handling and initial testing.
 Scope of development includes
 - PCD filtering, to reduce computational cost ensuring sufficient data quality
